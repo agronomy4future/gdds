@@ -1,0 +1,11 @@
+Package: gdds
+Title: Calculation for Growing Degree Days (GDDs, ºC d)
+Version: 0.0.0.9000
+Authors@R: 
+           person("JK", "Kim", , "agronomy4future@gmail.comm", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0002-9913-8768"))
+Description: Growing Degree Days (ºC d) is the cumulative temperature that crops receive during the growing period, and the gdds() package easily calculates the cumulative temperature with the base temperature.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
