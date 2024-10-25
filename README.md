@@ -13,7 +13,7 @@ The goal of gdds package is to calculate Growing Degree Days (GDDs, ºCd)
 
 ## Installation
 
-You can install the development version of fwrmodel like so:
+You can install the development version of gdds like so:
 
 Before installing, please download Rtools (https://cran.r-project.org/bin/windows/Rtools)
 
