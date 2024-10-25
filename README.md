@@ -9,7 +9,7 @@ The goal of gdds package is to calculate Growing Degree Days (GDDs, ºCd)
 
 □ Code summary: https://github.com/agronomy4future/r_code/blob/main/Calculation_for_Growing_Degree_Days_(GDDs_%C2%BACd).ipynb
 
-□ Code explained: https://agronomy4future.org/archives/23118
+□ Code explained: https://agronomy4future.org/archives/23133
 
 ## Installation
 
